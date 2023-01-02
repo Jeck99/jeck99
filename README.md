@@ -8,24 +8,24 @@
 </p>
 
 
-### :man_technologist: &nbsp;About Me :
+## :man_technologist: &nbsp;About Me :
 
 Full Stack Developer
 
-#### :man_technologist: &nbsp;EMPLOYMENT
+### :man_technologist: &nbsp;EMPLOYMENT
 
-- ⚡ Tech-Career| Mentoring and instructor                                    2020 – current
-Teaching and training  full-stack development course's students.
-Studying and gathering up to date technical material and methods.
-Creating and managing both personal and group projects.
-- ⚡ At&T | Software engineer                                                             2018 –2020
-Worked on a project using AngularJs, Leading the transition and upgrade process to an advanced Angular 7 project.
-Leading and initiating Cypress.io technology implementation, writing client-side automation tests, E2E and unit-tests.
-Establishing a new project in React and building infrastructure from the base.
-Experience in advanced and innovative practices such as mobx and state management.
-Writing tests at Jest, Cypress.io, using TDD workflow.
-Experience in AGILE, BIQ and BDD methods.
-Working with tools such as GIT, Jira, Sonar, Selenium and Jenkins.
+##### ⚡ Tech-Career| Mentoring and instructor                                    2020 – current
+- Teaching and training  full-stack development course's students.
+- Studying and gathering up to date technical material and methods.
+- Creating and managing both personal and group projects.
+##### ⚡ At&T | Software engineer                                                             2018 –2020
+- Worked on a project using AngularJs, Leading the transition and upgrade process to an advanced Angular 7 project.
+- Leading and initiating Cypress.io technology implementation, writing client-side automation tests, E2E and unit-tests.
+- Establishing a new project in React and building infrastructure from the base.
+- Experience in advanced and innovative practices such as mobx and state management.
+- Writing tests at Jest, Cypress.io, using TDD workflow.
+- Experience in AGILE, BIQ and BDD methods.
+- Working with tools such as GIT, Jira, Sonar, Selenium and Jenkins.
 
 ---
 
