@@ -14,6 +14,11 @@ Full Stack Developer
 
 ### :man_technologist: &nbsp;EMPLOYMENT
 
+##### ⚡ IndiCom| Independent software developer                                    2020 – current
+ Consulting and performing tasks on an hourly basis. 
+Application development for private customers and small businesses. 
+ Creating an application for learning software development technologies, with learning materials accessible to any level of proficiency. 
+
 ##### ⚡ Tech-Career| Mentoring and instructor                                    2020 – current
 - Teaching and training  full-stack development course's students.
 - Studying and gathering up to date technical material and methods.
@@ -23,8 +28,7 @@ Full Stack Developer
 - Leading and initiating Cypress.io technology implementation, writing client-side automation tests, E2E and unit-tests.
 - Establishing a new project in React and building infrastructure from the base.
 - Experience in advanced and innovative practices such as mobx and state management.
-- Writing tests at Jest, Cypress.io, using TDD workflow.
-- Experience in AGILE, BIQ and BDD methods.
+- Experience in AGILE, BIQ, TDD and BDD methods.
 - Working with tools such as GIT, Jira, Sonar, Selenium and Jenkins.
 
 ---
